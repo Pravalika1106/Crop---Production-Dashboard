@@ -139,9 +139,3 @@ Through this project, I gained experience in:
 - Extracting insights from real-world data  
 
 ---
-
-## 📸 Dashboard Preview
-
-_Add your dashboard screenshots here_
-
-Example:
